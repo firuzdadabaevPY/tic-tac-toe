@@ -1,0 +1,5 @@
+Our winner is X 
+Our winner is X
+Our winner is O
+Победили X.
+Победили O.
